@@ -1,5 +1,9 @@
 a,b=map(int,input().split())
-if(a==b):
+if(a==1&a==0):
+    print("yes")
+elif(b==1&b==0):
+    print("yes")
+elif(a==b):
     c=a*b
     print("yes")
 else:
