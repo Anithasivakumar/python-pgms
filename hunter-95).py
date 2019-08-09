@@ -5,4 +5,4 @@ for i in range(2,x+1):
         if(i%a==0):
             k=k+1
     if(k<=0):
-        print(i,end=" ")
+        print(i,end="")
