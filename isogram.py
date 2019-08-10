@@ -1,6 +1,6 @@
 txt=str(input(""))
 txt = txt.lower()
 if len(list(txt)) == len(set(txt)):
-    print("yes")
+    print("Yes")
 else:
-    print("no")
+    print("No")
