@@ -1,2 +1,2 @@
-d=str(input(""))+"Answer"
+d=str(input(""))+" "+"Answer"
 print(d)
